@@ -1,0 +1,38 @@
+<product>
+    <item id="1">
+        <name>product1</name>
+        <publisher>Microsoft</publisher>
+        <sku>0000</sku>
+        <platform>Window</platform>
+    </item>
+    <item id="2">
+        <name>product2</name>
+        <publisher>publisher2</publisher>
+        <sku>0001</sku>
+        <platform>Linux</platform>
+    </item>
+    <item id="3">
+        <name>product3</name>
+        <publisher>publisher3</publisher>
+        <sku>0003</sku>
+        <platform>MacOS</platform>
+    </item>
+    <item id="4">
+        <name>product4</name>
+        <publisher>publisher4</publisher>
+        <sku>0004</sku>
+        <platform>MacOS</platform>
+    </item>
+    <item id="5">
+        <name>product5</name>
+        <publisher>publisher5</publisher>
+        <sku>0005</sku>
+        <platform>Linux</platform>
+    </item>
+    <item id="6">
+        <name>product6</name>
+        <publisher>publisher6</publisher>
+        <sku>0006</sku>
+        <platform>Window</platform>
+    </item>
+</product>
